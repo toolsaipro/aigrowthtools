@@ -1,11 +1,11 @@
 ---
 title: "Bluehost Review 2026: Is It Still the Best Hosting for WordPress?"
-date: 2026-05-17 09:00:00 +0530
+date: 2026-05-17
 categories: [Reviews, Web Hosting]
 tags: [bluehost, web-hosting, wordpress-hosting, review, blogging, beginners]
 description: "Honest Bluehost review 2026 — real speed tests, pricing, pros & cons tested. Find out if Bluehost is the right WordPress hosting for your website."
 image:
-  path: /assets/img/posts/bluehost-review-2026.jpg
+  path: /assets/img/posts/bluehost-review-2026.png
   alt: Bluehost Review 2026 — Is It Worth It for WordPress?
 ---
 
